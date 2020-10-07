@@ -1,5 +1,11 @@
 # vubraspored
 
+Raspored sati napravljen kao VueJS aplikacija, backend u firebase-u. Google PWA aplikacija - sve self-taught.
+
+Aplikacija je hostana na firebase-u:
+https://vubhub-33fde.firebaseapp.com/login
+
+
 ## Project setup
 ```
 npm install
