@@ -1,6 +1,6 @@
 # vubraspored
 
-Raspored sati napravljen kao VueJS aplikacija, backend u firebase-u. Google PWA aplikacija - sve self-taught.
+Raspored sati napravljen kao VueJS aplikacija, backend u firebase-u. Google PWA aplikacija - self-taught.
 
 Aplikacija je hostana na firebase-u:
 https://vubhub-33fde.firebaseapp.com/login
