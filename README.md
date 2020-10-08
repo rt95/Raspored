@@ -2,7 +2,7 @@
 
 Raspored sati napravljen kao **VueJS** aplikacija, backend u **Firebase**-u. **Google PWA** aplikacija - self-taught.
 
-Aplikacija je hostana na firebase-u:
+Aplikacija je hostana na Firebase-u:
 https://vubhub-33fde.firebaseapp.com/login
 
 
